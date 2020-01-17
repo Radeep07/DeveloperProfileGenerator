@@ -59,6 +59,8 @@ WHEN prompted for the developer's GitHub username and favorite color
 
 THEN a PDF profile is generated
 ```
+You can find the live demo of the application here below.
+![Profile Generator](./Assets/Demo.gif)
 - - -
 
 
