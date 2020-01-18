@@ -226,7 +226,7 @@ module.exports = {
                   <div class="col">
                     <div class="card">
                       <h3>GitHub Stars</h2>
-                      <h4>${res.data.followers}</h4>
+                      <h4>${res.data.public_gists}</h4>
                     </div>
                   </div>                  
                   <div class="col">
